@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**benbowler/benbowler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and startup founder contracting and building [SendMusic](https://sendmusic.com/directory) and [StreamOn](https://streamon.app) through my startup studio [Indie](https://indie.tech).
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
