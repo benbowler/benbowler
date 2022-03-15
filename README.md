@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software developer and startup founder contracting and building [SendMusic](https://sendmusic.com/directory) and [StreamOn](https://streamon.app) through my startup studio [Indie](https://indie.tech).
+I'm a software developer and founder of [Aux](https://aux.app), [StreamOn [Acquired]](https://streamon.app), [SendMusic [Failed]](https://sendmusic.com) and  [ASO Giraffe [Growing]](https://asogiraffe.com); through my startup studio [Indie](https://indie.tech).
 
 <!--
 Here are some ideas to get you started:
